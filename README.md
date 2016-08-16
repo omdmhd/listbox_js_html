@@ -5,8 +5,7 @@ to make a listbox with  move down and move up item,converting list to textarea a
 
 
 simple and easy:
-for using this library just add
-		<script src="listbox.js" type="text/javascript"></script>
+for using this library just include the library
 and then create object like below
 create select element and textarea in your html .
 and then create listbox object like below
